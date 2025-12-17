@@ -1,0 +1,27 @@
+[
+  {
+    "section_num": "5.1",
+    "title": "Physical Layer Overview",
+    "content": "The physical layer in 5G NR provides the radio interface between the UE and the network. It supports multiple numerologies and flexible frame structures.",
+    "level": 1,
+    "parent": null,
+    "content_length": 142
+  },
+  {
+    "section_num": "5.1.1",
+    "title": "Numerology",
+    "content": "Numerology is defined as the subcarrier spacing configuration parameter mu. It determines the spacing between OFDM subcarriers.",
+    "level": 2,
+    "parent": "5.1",
+    "content_length": 120
+  },
+  {
+    "section_num": "5.1.2",
+    "title": "HARQ",
+    "content": "HARQ (Hybrid Automatic Repeat Request) is an error correction mechanism that combines forward error correction with automatic repeat request.",
+    "level": 2,
+    "parent": "5.1",
+    "content_length": 132
+  }
+]
+

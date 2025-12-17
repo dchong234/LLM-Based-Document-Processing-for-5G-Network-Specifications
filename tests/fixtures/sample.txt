@@ -1,0 +1,20 @@
+3GPP TS 38.211 V17.0.0 (2022-03)
+
+Technical Specification
+
+5.1 Physical Layer Overview
+
+The physical layer in 5G NR provides the radio interface between the UE and the network.
+It supports multiple numerologies and flexible frame structures.
+
+5.1.1 Numerology
+
+Numerology is defined as the subcarrier spacing configuration parameter mu.
+It determines the spacing between OFDM subcarriers.
+
+HARQ (Hybrid Automatic Repeat Request) is an error correction mechanism that combines
+forward error correction with automatic repeat request.
+
+© 2022 3GPP
+Page 15
+
